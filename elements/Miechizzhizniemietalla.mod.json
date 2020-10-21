@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 1,
-    "texture": "texture",
+    "texture": "edstse",
     "customModelName": "miech_iz_zhizniemietala:default",
     "name": "Меч Из ЖизнеМеталла",
     "specialInfo": [],
