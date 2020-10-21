@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mystic_secret:blocks/mysticyellowflower",
+    "particle": "mystic_secret:blocks/mysticyellowflower"
+  }
+}

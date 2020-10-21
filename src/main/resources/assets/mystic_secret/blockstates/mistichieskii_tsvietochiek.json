@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "mystic_secret:mistichieskii_tsvietochiek"
+    },
+    "age=1": {
+      "model": "mystic_secret:mistichieskii_tsvietochiek"
+    },
+    "age=2": {
+      "model": "mystic_secret:mistichieskii_tsvietochiek"
+    },
+    "age=3": {
+      "model": "mystic_secret:mistichieskii_tsvietochiek"
+    },
+    "age=4": {
+      "model": "mystic_secret:mistichieskii_tsvietochiek"
+    },
+    "age=5": {
+      "model": "mystic_secret:mistichieskii_tsvietochiek"
+    },
+    "age=6": {
+      "model": "mystic_secret:mistichieskii_tsvietochiek"
+    },
+    "age=7": {
+      "model": "mystic_secret:mistichieskii_tsvietochiek"
+    },
+    "age=8": {
+      "model": "mystic_secret:mistichieskii_tsvietochiek"
+    },
+    "age=9": {
+      "model": "mystic_secret:mistichieskii_tsvietochiek"
+    },
+    "age=10": {
+      "model": "mystic_secret:mistichieskii_tsvietochiek"
+    },
+    "age=11": {
+      "model": "mystic_secret:mistichieskii_tsvietochiek"
+    },
+    "age=12": {
+      "model": "mystic_secret:mistichieskii_tsvietochiek"
+    },
+    "age=13": {
+      "model": "mystic_secret:mistichieskii_tsvietochiek"
+    },
+    "age=14": {
+      "model": "mystic_secret:mistichieskii_tsvietochiek"
+    },
+    "age=15": {
+      "model": "mystic_secret:mistichieskii_tsvietochiek"
+    }
+  }
+}

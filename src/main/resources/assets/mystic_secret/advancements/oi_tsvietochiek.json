@@ -1,0 +1,37 @@
+{
+  "display": {
+    "background": "minecraft:textures/blocks/stone.png",
+    "icon": {
+      "item": "mystic_secret:mistichieskii_tsvietochiek"
+    },
+    "title": {
+      "translate": "advancements.oi_tsvietochiek.title"
+    },
+    "description": {
+      "translate": "advancements.oi_tsvietochiek.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "oi_tsvietochiek": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "mystic_secret:mistichieskii_tsvietochiek",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 2
+  }
+}

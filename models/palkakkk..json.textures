@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "planks_oak"
+      },
+      "name": "default"
+    }
+  }
+}

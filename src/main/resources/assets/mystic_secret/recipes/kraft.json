@@ -1,0 +1,16 @@
+{
+  "group": "mysticsecret2",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "mystic_secret:mistichieskii_tsvietochiek"
+    }
+  },
+  "result": {
+    "item": "mystic_secret:liepiestok",
+    "count": 1
+  }
+}

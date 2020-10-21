@@ -1,0 +1,20 @@
+{
+  "flower1": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "mystic_secret:mystic_secret_2_flower1",
+        "stream": false
+      }
+    ]
+  },
+  "flower01": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "mystic_secret:mystic_secret_2_flower1",
+        "stream": false
+      }
+    ]
+  }
+}
